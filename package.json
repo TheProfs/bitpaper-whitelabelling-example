@@ -1,0 +1,29 @@
+{
+  "name": "bitpaper-whitelabelling-example",
+  "version": "1.0.0",
+  "description": "Whitelabelling example for Bitpaper",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheProfs/bitpaper-whitelabelling-example.git"
+  },
+  "keywords": [
+    "bitpaper",
+    "whitelabel",
+    "iframe",
+    "api"
+  ],
+  "author": "@TheProfs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheProfs/bitpaper-whitelabelling-example/issues"
+  },
+  "homepage": "https://github.com/TheProfs/bitpaper-whitelabelling-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
